@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Proof concept 
 
 ##Bienvenido al repositorio prueba de conceptos 📱
+=======
+#Bienvenido al repositorio prueba de conceptos 📱
+>>>>>>> 0e8a03ddacfd8143d47b654d3e90447b335115ad
+
+Este es un proyecto de practica
 
 Demostracion de un aplicacion e-commerce utilizando Flutter con GetX.
 

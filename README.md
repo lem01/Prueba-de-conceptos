@@ -1,13 +1,12 @@
+# Proof concept 
 
-#Bienvenido al repositorio prueba de conceptos 📱
-
-Este es un proyecto de practica
+##Bienvenido al repositorio prueba de conceptos 📱
 
 Demostracion de un aplicacion e-commerce utilizando Flutter con GetX.
 
+------------
 ### Herramientas generales
 
-------------
 Para instalar este proyecto nesesitas instalar el SDK de FLutter.
 
 Tambien nesesita tener visual studio code o android studio con las extenciones dart y flutter.

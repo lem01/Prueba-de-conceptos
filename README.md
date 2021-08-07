@@ -12,7 +12,7 @@ Tambien nesesita tener visual studio code o android studio con las extenciones d
 Instalacion:
 
 ##### Windows
-- Visual Studio Code   👉 [Descargar](https://code.visualstudio.com/ "Descargar") o puedes instalar Android Studio   👉[Descargar](https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjwu7OIBhCsARIsALxCUaO5PyDfN71LXr7HABTa4cMFemhVfqVXet2pXzfU-bWC630h6C4V5KkaAvtNEALw_wcB&gclsrc=aw.ds "Descargar")
+- Visual Studio Code   👉 [Descargar](https://code.visualstudio.com/ "Descargar") o puedes instalar Android Studio   👉 [Descargar](https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjwu7OIBhCsARIsALxCUaO5PyDfN71LXr7HABTa4cMFemhVfqVXet2pXzfU-bWC630h6C4V5KkaAvtNEALw_wcB&gclsrc=aw.ds "Descargar")
 - Flutter [Descargar](https://flutter.dev/?gclid=Cj0KCQjwu7OIBhCsARIsALxCUaOaX8gmgmcYJ8GDozs4G_3OhLfUQYS_-BkMuHTA1qKlxHTUEzYxmLEaAlHxEALw_wcB&gclsrc=aw.ds "Descargar")
 - Genymotion emulator for  Android    👉 [Descargar](https://www.genymotion.com/ "Descargar")
  
@@ -58,9 +58,6 @@ encontrar paquetes en [pup.dev](https://pub.dev/ "pup.dev")
 	- Flutter
 - Emuladores utilzados
 	- Emulador de Android Studio
-
-
-
 
 
 

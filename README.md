@@ -1,4 +1,4 @@
-## Bienvenido al repositorio prueba de conceptos 📱
+# Bienvenido al repositorio prueba de conceptos 📱
 
 Demostracion de un aplicacion e-commerce utilizando Flutter con GetX.
 
@@ -61,10 +61,10 @@ encontrar paquetes en [pup.dev](https://pub.dev/ "pup.dev")
 
 ------------
 ## Capturas de pantalla
-![Flutter ScreenShots](screenshots/(1).png)  |![Flutter ScreenShots](screenshots/(2).png)  | ![Flutter ScreenShots](screenshots/(3).png)  | ![Flutter ScreenShots](screenshots/(4).png) 
+
 -------------------------------------------|--------------------------------------------|--------------------------------------------|-------------------------------------------
-![Flutter ScreenShots](screenshots/(1).png)  | ![Flutter ScreenShots](screenshots/(2).png)   | ![Flutter ScreenShots](screenshots/(3).png)
-![Flutter ScreenShots](screenshots/(4).png) | ![Flutter ScreenShots](screenshots/(5).png) |                               
+![Flutter ScreenShots](screenshots/(1).gif)  | ![Flutter ScreenShots](screenshots/(2).gif)   | ![Flutter ScreenShots](screenshots/(3).gif)
+![Flutter ScreenShots](screenshots/(4).gif) | ![Flutter ScreenShots](screenshots/(5).gif) |                               
 
 
 

@@ -62,9 +62,9 @@ encontrar paquetes en [pup.dev](https://pub.dev/ "pup.dev")
 ------------
 ## Capturas de pantalla
 
-|  ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker.gif)   | ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(2).gif) |   ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(3).gif)| 
+|  ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(1).gif)   | ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(2).gif) |   ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(3).gif)| 
 |               ------------                                     | ------------ 		 				  |       ------------      |
-|  ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(4).gif)   |   ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(5).gif) |   |
+|  ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(4).gif)   | ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(5).gif)                            | ![Flutter ScreenShots](screenshots/ezgif.com-gif-maker(6).gif)  |
 
 
 

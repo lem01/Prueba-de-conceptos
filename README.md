@@ -16,7 +16,7 @@ Instalacion:
 - Flutter [Descargar](https://flutter.dev/?gclid=Cj0KCQjwu7OIBhCsARIsALxCUaOaX8gmgmcYJ8GDozs4G_3OhLfUQYS_-BkMuHTA1qKlxHTUEzYxmLEaAlHxEALw_wcB&gclsrc=aw.ds "Descargar")
 - Genymotion emulator for  Android    👉 [Descargar](https://www.genymotion.com/ "Descargar")
  
-* Nota 1: Android Studio viene con un emulador de Android *
+*Nota 1: Android Studio viene con un emulador de Android*
 
 ------------
 
@@ -46,8 +46,8 @@ encontrar paquetes en [pup.dev](https://pub.dev/ "pup.dev")
 ------------
 
 ### Descripcion general del proyecto 
-* Nota 1: Este proyecto  está configurado para usarse en Windows *
-* Nota 2:  Puedes correr la aplicacion en tu celular fisico o emuladores Android o IOs *
+*Nota 1: Este proyecto  está configurado para usarse en Windows*
+*Nota 2:  Puedes correr la aplicacion en tu celular fisico o emuladores Android o IOs*
 
 - Lenguajes
 	- Dart

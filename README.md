@@ -47,6 +47,7 @@ encontrar paquetes en [pup.dev](https://pub.dev/ "pup.dev")
 
 ### Descripcion general del proyecto 
 *Nota 1: Este proyecto  está configurado para usarse en Windows*
+
 *Nota 2:  Puedes correr la aplicacion en tu celular fisico o emuladores Android o IOs*
 
 - Lenguajes

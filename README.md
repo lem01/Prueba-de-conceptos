@@ -59,6 +59,14 @@ encontrar paquetes en [pup.dev](https://pub.dev/ "pup.dev")
 - Emuladores utilzados
 	- Emulador de Android Studio
 
+------------
+## Capturas de pantalla
+![Flutter ScreenShots](screenshots/(1).png)  |![Flutter ScreenShots](screenshots/(2).png)  | ![Flutter ScreenShots](screenshots/(3).png)  | ![Flutter ScreenShots](screenshots/(4).png) 
+-------------------------------------------|--------------------------------------------|--------------------------------------------|-------------------------------------------
+![Flutter ScreenShots](screenshots/(1).png)  | ![Flutter ScreenShots](screenshots/(2).png)   | ![Flutter ScreenShots](screenshots/(3).png)
+![Flutter ScreenShots](screenshots/(4).png) | ![Flutter ScreenShots](screenshots/(5).png) |                               
+
+
 
 
 

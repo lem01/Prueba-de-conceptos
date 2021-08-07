@@ -1,7 +1,6 @@
-# Proof concept 2
-Este es un proyecto de practica
-
 #Bienvenido al repositorio prueba de conceptos 📱
+
+Este es un proyecto de practica
 
 Demostracion de un aplicacion e-commerce utilizando Flutter con GetX.
 

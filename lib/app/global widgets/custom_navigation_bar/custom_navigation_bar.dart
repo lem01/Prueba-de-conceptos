@@ -18,17 +18,6 @@ class CustomNavigationBar extends StatelessWidget {
               "https://image.flaticon.com/icons/png/512/3145/3145825.png",
               height: 22,
             ),
-            // activeIcon: ClipRRect(
-            //   borderRadius: BorderRadius.circular(30),
-            //   child: Container(
-            //     color: Colors.orangeAccent,
-            //     padding: EdgeInsets.all(5),
-            //     child: Image.network(
-            //       "https://image.flaticon.com/icons/png/512/3145/3145825.png",
-            //       height: 17,
-            //     ),
-            //   ),
-            // ),
             icon: Icon(Icons.home),
             title: Text("Inicio"),
             selectedColor: Colors.redAccent),
